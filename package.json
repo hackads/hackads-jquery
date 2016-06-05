@@ -30,7 +30,7 @@
     "url": "https://github.com/hackads/hackads-jquery/issues"
   },
   "homepage": "https://github.com/hackads/hackads-jquery#readme",
-  "dependencies2": {
+  "dependencies": {
     "hackads-node": "^1.0.0"
   },
   "devDependencies": {
